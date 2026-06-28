@@ -18,26 +18,8 @@
 
       <ul class="handout-list">
         <li>
-          <a href="handouts/crystal_structure.pdf" target="_blank">
-            Crystal Structure
-          </a>
-        </li>
-
-        <li>
-          <a href="handouts/reciprocal_lattice.pdf" target="_blank">
-            Reciprocal Lattice
-          </a>
-        </li>
-
-        <li>
-          <a href="handouts/phonons.pdf" target="_blank">
-            Phonons
-          </a>
-        </li>
-
-        <li>
-          <a href="handouts/band_theory.pdf" target="_blank">
-            Band Theory
+          <a href="handouts/myth.pdf" target="_blank">
+            Myth Handout
           </a>
         </li>
       </ul>
