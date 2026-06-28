@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Solid State Physics Handouts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Solid State Physics Handouts</h1>
+    <p>Lecture notes and handouts for solid state physics.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Handouts</h2>
+
+      <ul class="handout-list">
+        <li>
+          <a href="handouts/crystal_structure.pdf" target="_blank">
+            Crystal Structure
+          </a>
+        </li>
+
+        <li>
+          <a href="handouts/reciprocal_lattice.pdf" target="_blank">
+            Reciprocal Lattice
+          </a>
+        </li>
+
+        <li>
+          <a href="handouts/phonons.pdf" target="_blank">
+            Phonons
+          </a>
+        </li>
+
+        <li>
+          <a href="handouts/band_theory.pdf" target="_blank">
+            Band Theory
+          </a>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by Eshgin Aliyev</p>
+  </footer>
+
+</body>
+</html>
